@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Ground
   - Clue
+  - Enemy
+  - CheckPoint
   layers:
   - Default
   - TransparentFX
@@ -42,4 +44,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3861707749
+    locked: 0
+  - name: bg-3
+    uniqueID: 3290045879
+    locked: 0
+  - name: bg-2
+    uniqueID: 564156861
+    locked: 0
+  - name: bg-1
+    uniqueID: 2891307589
+    locked: 0
+  - name: Player
+    uniqueID: 510149589
+    locked: 0
+  - name: FG
+    uniqueID: 1065685245
     locked: 0
